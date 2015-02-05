@@ -1,0 +1,2214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Any Form\n"
+"POT-Creation-Date: 2015-01-29 03:51+0200\n"
+"PO-Revision-Date: 2015-01-29 03:51+0200\n"
+"Last-Translator: Christiaan Brand <info@biz-logic.co.za>\n"
+"Language-Team: Christiaan Brand <cpbrand@gmail.com>\n"
+"Language: en_ZA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/admin.php:38 classes/admin.php:41
+msgid "Form updated."
+msgstr ""
+
+#: classes/admin.php:42
+#, php-format
+msgid "Form restored to revision from %s"
+msgstr ""
+
+#: classes/admin.php:43
+msgid "Form published."
+msgstr ""
+
+#: classes/admin.php:44
+msgid "Form saved."
+msgstr ""
+
+#: classes/admin.php:45
+msgid "Form submitted."
+msgstr ""
+
+#: classes/admin.php:47
+#, php-format
+msgid "Form scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: classes/admin.php:48
+msgctxt "Scheduled date for Form"
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: classes/admin.php:50
+msgid "Form draft updated."
+msgstr ""
+
+#: classes/admin.php:65 classes/admin.php:68
+msgid "Email template updated."
+msgstr ""
+
+#: classes/admin.php:69
+#, php-format
+msgid "Email template restored to revision from %s"
+msgstr ""
+
+#: classes/admin.php:70
+msgid "Email template published."
+msgstr ""
+
+#: classes/admin.php:71
+msgid "Email template saved."
+msgstr ""
+
+#: classes/admin.php:72
+msgid "Email template submitted."
+msgstr ""
+
+#: classes/admin.php:74
+#, php-format
+msgid "Email template scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: classes/admin.php:75
+msgctxt "Scheduled date for Email template"
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: classes/admin.php:77
+msgid "Email template draft updated."
+msgstr ""
+
+#: classes/admin.php:184
+msgctxt "Duplicate form error message"
+msgid "No form to duplicate has been specified."
+msgstr ""
+
+#: classes/admin.php:282
+msgctxt "Duplicate form error message"
+msgid "Post creation failed, could not find original post."
+msgstr ""
+
+#: classes/admin.php:333
+msgid "Show data from all forms"
+msgstr ""
+
+#: classes/admin.php:407
+msgctxt "Server error message for plugin admin"
+msgid "Server error, please contact plugin author or system administrator."
+msgstr ""
+
+#: classes/admin.php:408
+#, php-format
+msgctxt "Required fields error message for plugin admin"
+msgid "All fields marked with %s required."
+msgstr ""
+
+#: classes/admin.php:409
+msgctxt "Data grids and CSV select form error message"
+msgid "Select form first."
+msgstr ""
+
+#: classes/admin.php:410
+msgctxt "Data grids and CSV select field(s) error message"
+msgid "At least one field required."
+msgstr ""
+
+#: classes/admin.php:411
+msgctxt "Data CSV download file link text"
+msgid "Download CSV file"
+msgstr ""
+
+#: classes/admin.php:412
+msgctxt "Data CSV download file message"
+msgid "Export complete, download CSV file by clicking on link."
+msgstr ""
+
+#: classes/admin.php:413
+msgctxt "Plugin configuration contacting server message"
+msgid "Contacting server, please wait..."
+msgstr ""
+
+#: classes/admin.php:414
+msgctxt "Plugin configuration saved message"
+msgid "Configuration saved."
+msgstr ""
+
+#: classes/admin.php:415
+msgctxt "Plugin configuration custom theme value error message"
+msgid "Custom theme value required."
+msgstr ""
+
+#: classes/admin.php:416
+msgctxt "Plugin configuration custom theme file check ok message"
+msgid "Custom theme file check ok."
+msgstr ""
+
+#: classes/admin.php:417
+msgctxt "Plugin configuration custom theme file check error message"
+msgid ""
+"Custom theme file not found, please check file name and path and re-enter."
+msgstr ""
+
+#: classes/admin.php:418
+msgctxt "Checkbox add / edit item form label and value required error message"
+msgid "Item label and value required."
+msgstr ""
+
+#: classes/admin.php:419
+msgctxt ""
+"Checkbox add / edit item form validation error message required message"
+msgid "Validation error message required."
+msgstr ""
+
+#: classes/admin.php:420
+msgctxt "Checkbox add / edit item form heading (update)"
+msgid "Update checkbox:"
+msgstr ""
+
+#: classes/admin.php:421
+msgctxt "Checkbox add / edit item form button text (update)"
+msgid "Update"
+msgstr ""
+
+#: classes/admin.php:422
+msgctxt "Drop down list add / edit item set form button text (update)"
+msgid "Update item set"
+msgstr ""
+
+#: classes/admin.php:423
+msgctxt "Drop down list add / edit item set form name required message"
+msgid "Item set name required."
+msgstr ""
+
+#: classes/admin.php:424
+msgctxt "Drop down list add / edit item set form updated message"
+msgid "Item set updated."
+msgstr ""
+
+#: classes/admin.php:425
+msgctxt "Drop down list item set delete confirmation message"
+msgid ""
+"Confirm item set delete? Item set items that belong to item set will also be "
+"deleted."
+msgstr ""
+
+#: classes/admin.php:426
+msgctxt "Drop down list item set delete confirmation action text"
+msgid "Confirm and delete"
+msgstr ""
+
+#: classes/admin.php:427
+msgctxt "Drop down list item set delete cancel action text"
+msgid "Cancel"
+msgstr ""
+
+#: classes/admin.php:428
+msgctxt "Drop down list initial item set error message"
+msgid "Initial item set can only bet set once for this drop down list control."
+msgstr ""
+
+#: classes/admin.php:429
+msgctxt ""
+"Drop down list add / edit item form description and value required error "
+"message"
+msgid "Item description and value required."
+msgstr ""
+
+#: classes/admin.php:430
+msgctxt "Drop down list add / edit item form heading (update)"
+msgid "Update item:"
+msgstr ""
+
+#: classes/admin.php:431
+msgctxt "Drop down list add / edit item form button text (update)"
+msgid "Update item"
+msgstr ""
+
+#: classes/admin.php:432
+msgctxt "Email Options insert form field dialog title"
+msgid "Insert form field shortcode"
+msgstr ""
+
+#: classes/admin.php:433
+msgctxt "Email Options insert form field dialog no form selected button text"
+msgid "Ok"
+msgstr ""
+
+#: classes/admin.php:434
+msgctxt "Email Options insert form field dialog no form selected error message"
+msgid "Select form first, in \"Email Options\" meta box."
+msgstr ""
+
+#: classes/admin.php:435
+msgctxt ""
+"Email Options send to email address form field no form selected error message"
+msgid "Select form first."
+msgstr ""
+
+#: classes/admin.php:436
+msgctxt "Email Options insert form field dialog button text (Insert)"
+msgid "Insert"
+msgstr ""
+
+#: classes/admin.php:437
+msgctxt "Email Options insert form field dialog button text (Cancel)"
+msgid "Cancel"
+msgstr ""
+
+#: classes/admin.php:438
+msgctxt "Form builder error message"
+msgid "Add control(s) to form first."
+msgstr ""
+
+#: classes/admin.php:439
+msgctxt "Form builder error message"
+msgid "There can only be one submit button per form."
+msgstr ""
+
+#: classes/admin.php:440
+msgctxt "Form builder error message"
+msgid "There can only be one reset button per form."
+msgstr ""
+
+#: classes/admin.php:441
+msgctxt "Form builder error message"
+msgid "There can only be one recaptcha control per form."
+msgstr ""
+
+#: classes/admin.php:442
+msgctxt "Form builder error message"
+msgid "Can only move control to empty cell."
+msgstr ""
+
+#: classes/admin.php:443
+msgctxt "Form builder informational message"
+msgid "Please note the current control will be replaced."
+msgstr ""
+
+#: classes/admin.php:444
+msgctxt "Form builder error message"
+msgid "Field Name must be unique."
+msgstr ""
+
+#: classes/admin.php:445
+msgctxt "Form builder control options dialog button text (Add)"
+msgid "Add"
+msgstr ""
+
+#: classes/admin.php:446
+msgctxt "Form builder control options dialog button text (Update)"
+msgid "Update"
+msgstr ""
+
+#: classes/admin.php:447
+msgctxt "Form builder control options dialog button text (Cancel)"
+msgid "Cancel"
+msgstr ""
+
+#: classes/admin.php:448
+msgctxt "Form builder control options dialog title"
+msgid "Options"
+msgstr ""
+
+#: classes/admin.php:449
+msgctxt "Form builder control confirm delete text"
+msgid "Please confirm delete action:"
+msgstr ""
+
+#: classes/admin.php:450
+msgctxt "Form builder control confirm delete option"
+msgid "Delete control only"
+msgstr ""
+
+#: classes/admin.php:451
+msgctxt "Form builder control confirm delete option"
+msgid "Delete control and cell"
+msgstr ""
+
+#: classes/admin.php:452
+msgctxt "Form builder control confirm delete dialog title"
+msgid "Confirmation"
+msgstr ""
+
+#: classes/admin.php:453
+msgctxt ""
+"Form builder control confirm delete dialog button text (Confirm and delete)"
+msgid "Confirm and delete"
+msgstr ""
+
+#: classes/admin.php:454
+msgctxt "Form builder control confirm delete dialog button text (Cancel)"
+msgid "Cancel"
+msgstr ""
+
+#: classes/admin.php:455
+msgctxt "Form builder help dialog close button text"
+msgid "Close"
+msgstr ""
+
+#: classes/admin.php:456
+msgctxt ""
+"Radio button add / edit item form label and value required error message"
+msgid "Item label and value required."
+msgstr ""
+
+#: classes/admin.php:457
+msgctxt "Radio button add / edit item form heading (update)"
+msgid "Update radio button:"
+msgstr ""
+
+#: classes/admin.php:458
+msgctxt "Radio button add / edit item form button text (update)"
+msgid "Update"
+msgstr ""
+
+#: classes/admin.php:459
+msgctxt "Radio button options error message"
+msgid "Only one radio button in set can be set to be checked."
+msgstr ""
+
+#: classes/admin.php:460
+msgctxt "TinyMCE editor forms drop down list label text"
+msgid "Any Forms"
+msgstr ""
+
+#: classes/admin.php:536
+msgctxt "Data Grids CSV Page Title"
+msgid "Data Grids CSV"
+msgstr ""
+
+#: classes/admin.php:536
+msgctxt "Data Grids CSV Menu Text"
+msgid "Data Grids CSV"
+msgstr ""
+
+#: classes/admin.php:537
+msgctxt "Configuration Page Title"
+msgid "Configuration"
+msgstr ""
+
+#: classes/admin.php:537
+msgctxt "Configuration Menu Text"
+msgid "Configuration"
+msgstr ""
+
+#: classes/admin.php:567
+msgctxt "UI Theme exclude option"
+msgid "WordPress admin"
+msgstr ""
+
+#: classes/admin.php:576
+msgctxt "Plugin configuration heading"
+msgid "Configuration"
+msgstr ""
+
+#: classes/admin.php:581
+msgctxt "Plugin configuration UI Theme tab heading"
+msgid "UI Theme"
+msgstr ""
+
+#: classes/admin.php:582
+msgctxt "Plugin configuration ReCaptcha tab heading"
+msgid "ReCaptcha"
+msgstr ""
+
+#: classes/admin.php:588
+msgid "Select UI theme:"
+msgstr ""
+
+#: classes/admin.php:598
+msgctxt "UI Theme configuration label"
+msgid "Specify custom theme:"
+msgstr ""
+
+#: classes/admin.php:611
+msgid "Exclude from:"
+msgstr ""
+
+#: classes/admin.php:625
+msgid "ReCaptcha Site Key:"
+msgstr ""
+
+#: classes/admin.php:635
+msgid "ReCaptcha Secret Key:"
+msgstr ""
+
+#: classes/admin.php:643
+msgid "ReCaptcha Language:"
+msgstr ""
+
+#: classes/admin.php:653
+msgid "Save Configuration"
+msgstr ""
+
+#: classes/admin.php:659
+msgctxt "Data grids select form text"
+msgid "Select form"
+msgstr ""
+
+#: classes/admin.php:663
+msgid "Data Grids and Export CSV"
+msgstr ""
+
+#: classes/admin.php:672
+msgid "Get Grid"
+msgstr ""
+
+#: classes/admin.php:675
+msgid "Export CSV"
+msgstr ""
+
+#: classes/admin.php:699
+msgctxt "Plugin go pro heading"
+msgid "Go Pro"
+msgstr ""
+
+#: classes/admin.php:828
+msgctxt "Form editor shortcode meta box heading"
+msgid "Shortcode"
+msgstr ""
+
+#: classes/admin.php:829
+msgctxt "Form editor controls meta box heading"
+msgid "Controls"
+msgstr ""
+
+#: classes/admin.php:830
+msgctxt "Form editor form meta box heading"
+msgid "Form"
+msgstr ""
+
+#: classes/admin.php:831
+msgctxt "Form editor style meta box heading"
+msgid "Style"
+msgstr ""
+
+#: classes/admin.php:832
+msgctxt "Form editor submit meta box heading"
+msgid "Submit"
+msgstr ""
+
+#: classes/admin.php:833
+msgctxt "Form editor messages meta box heading"
+msgid "Messages"
+msgstr ""
+
+#: classes/admin.php:834
+msgctxt "Form editor pop up form meta box heading"
+msgid "Pop Up Form"
+msgstr ""
+
+#: classes/admin.php:835
+msgctxt "Form editor custom css meta box heading"
+msgid "Custom CSS"
+msgstr ""
+
+#: classes/admin.php:838
+msgctxt "Saved Form Data meta box heading"
+msgid "Saved Form Data"
+msgstr ""
+
+#: classes/admin.php:841
+msgctxt "Email Options meta box heading"
+msgid "Email Options"
+msgstr ""
+
+#: classes/admin.php:942
+msgctxt "Form style option"
+msgid "Use defined value"
+msgstr ""
+
+#: classes/admin.php:948
+msgctxt "Form builder style info message"
+msgid "Select None or leave empty to default to active theme styles."
+msgstr ""
+
+#: classes/admin.php:951
+msgid "Refresh Form"
+msgstr ""
+
+#: classes/admin.php:956
+msgctxt "Form style option"
+msgid "Form Width:"
+msgstr ""
+
+#: classes/admin.php:966
+msgctxt "Form style option"
+msgid "Layout:"
+msgstr ""
+
+#: classes/admin.php:976
+msgctxt "Form style option"
+msgid "Cells per row:"
+msgstr ""
+
+#: classes/admin.php:986
+msgctxt "Form style option"
+msgid "Cell spacing:"
+msgstr ""
+
+#: classes/admin.php:998
+msgctxt "Form style option"
+msgid "Row spacing:"
+msgstr ""
+
+#: classes/admin.php:1010
+msgctxt "Form style option"
+msgid "Cell padding:"
+msgstr ""
+
+#: classes/admin.php:1022
+msgctxt "Form style option"
+msgid "Font Size:"
+msgstr ""
+
+#: classes/admin.php:1032
+msgctxt "Form style option"
+msgid "Font Weight:"
+msgstr ""
+
+#: classes/admin.php:1040
+msgctxt "Form style option"
+msgid "Font Colour:"
+msgstr ""
+
+#: classes/admin.php:1050
+msgctxt "Form style option"
+msgid "Form message font Colour:"
+msgstr ""
+
+#: classes/admin.php:1058
+msgctxt "Form style option"
+msgid "Required fields asterisk (*) Colour:"
+msgstr ""
+
+#: classes/admin.php:1066
+msgctxt "Form style option"
+msgid "Vertical alignment:"
+msgstr ""
+
+#: classes/admin.php:1087
+msgctxt "Form submit option"
+msgid "Save form data"
+msgstr ""
+
+#: classes/admin.php:1094
+msgctxt "Form submit option"
+msgid "Send email(s) with form data"
+msgstr ""
+
+#: classes/admin.php:1100
+msgctxt "Form submit options info message"
+msgid "Set options for when form is submitted."
+msgstr ""
+
+#: classes/admin.php:1113
+msgctxt "Submit form options select email template(s) label"
+msgid "Select email template(s)"
+msgstr ""
+
+#: classes/admin.php:1131
+msgctxt "Default required fields message (Form messages option)"
+msgid "* Required fields."
+msgstr ""
+
+#: classes/admin.php:1132
+msgctxt "Default contacting server message (Form messages option)"
+msgid "Contacting server, please wait..."
+msgstr ""
+
+#: classes/admin.php:1133
+msgctxt "Default successful form submission message (Form messages option)"
+msgid "Form submitted successfully."
+msgstr ""
+
+#: classes/admin.php:1138
+msgctxt "Form messages option"
+msgid "Revert to required fields message after success message"
+msgstr ""
+
+#: classes/admin.php:1146
+msgctxt "Form messages option"
+msgid "Scroll to form message when text changes"
+msgstr ""
+
+#: classes/admin.php:1152
+msgid "Customise messages for form."
+msgstr ""
+
+#: classes/admin.php:1155
+msgid "Required fields message:"
+msgstr ""
+
+#: classes/admin.php:1165
+msgid ""
+"The * if included will be replaced with specific html to enable custom font "
+"styles."
+msgstr ""
+
+#: classes/admin.php:1170
+msgid "Contacting server message:"
+msgstr ""
+
+#: classes/admin.php:1180
+msgid "Successful form submission message:"
+msgstr ""
+
+#: classes/admin.php:1213
+msgctxt "Pop up form option"
+msgid "Form is pop up form"
+msgstr ""
+
+#: classes/admin.php:1218
+msgctxt "Pop up form link type option"
+msgid "Link"
+msgstr ""
+
+#: classes/admin.php:1219
+msgctxt "Pop up form link type option"
+msgid "Button"
+msgstr ""
+
+#: classes/admin.php:1232
+msgid "Pop up background colour:"
+msgstr ""
+
+#: classes/admin.php:1240
+msgctxt "Pop up form options open form link heading"
+msgid "Open form link"
+msgstr ""
+
+#: classes/admin.php:1245
+msgctxt "Pop up form options open form link text label"
+msgid "Text:"
+msgstr ""
+
+#: classes/admin.php:1248
+msgctxt "Pop up form options open form link text placeholder"
+msgid "Enter link text"
+msgstr ""
+
+#: classes/admin.php:1253
+msgctxt "Pop up form options open form link type label"
+msgid "Type:"
+msgstr ""
+
+#: classes/admin.php:1272
+msgctxt "Form custom css info message"
+msgid "Define custom css for the form here."
+msgstr ""
+
+#: classes/admin.php:1273
+msgctxt "Form custom css form id's info message"
+msgid "The form id's are"
+msgstr ""
+
+#: classes/admin.php:1274
+msgctxt "Form custom css builder form id label"
+msgid "Builder:"
+msgstr ""
+
+#: classes/admin.php:1274
+msgctxt "Form custom css builder form id's info message 'and'"
+msgid "and"
+msgstr ""
+
+#: classes/admin.php:1275
+msgctxt "Form custom css public form id label"
+msgid "Where displayed on site:"
+msgstr ""
+
+#: classes/admin.php:1339
+msgctxt "Email template option form select drop down first option"
+msgid "Select form..."
+msgstr ""
+
+#: classes/admin.php:1347
+msgctxt "Email template option form select label"
+msgid "Form:"
+msgstr ""
+
+#: classes/admin.php:1355
+msgctxt "Email template option email subject label"
+msgid "Email subject:"
+msgstr ""
+
+#: classes/admin.php:1363
+msgctxt "Email template option send to label"
+msgid "Send to:"
+msgstr ""
+
+#: classes/admin.php:1371
+msgid ""
+"Seperate email addresses with ; e.g. emailaddress1@domain.com; "
+"emailaddress2@domain.com; emailaddress3@otherdomain.com"
+msgstr ""
+
+#: classes/admin.php:1376
+msgctxt "Email template option send to (Auto reply) label"
+msgid "Auto reply send to:"
+msgstr ""
+
+#: classes/admin.php:1388
+#, php-format
+msgid ""
+"To insert form fields data into email template click on the %s icon in the "
+"html editor toolbar. When email is sent upon form submission the shortcode "
+"will be replaced with the data for that specific form field."
+msgstr ""
+
+#: classes/public.php:69
+msgctxt "Shortcode get content no valid selection message"
+msgid "No selection specified."
+msgstr ""
+
+#: classes/widgets/form_widget.php:7
+msgctxt "Form widget name"
+msgid "WP Any Form Widget"
+msgstr ""
+
+#: classes/widgets/form_widget.php:8
+msgctxt "Form widget description"
+msgid "Widget to contain form."
+msgstr ""
+
+#: classes/widgets/form_widget.php:49
+msgid "Title:"
+msgstr ""
+
+#: classes/widgets/form_widget.php:56
+msgid "Title tag:"
+msgstr ""
+
+#: classes/widgets/form_widget.php:63
+msgctxt "Form widget select form text"
+msgid "Form"
+msgstr ""
+
+#: php/btnreset.php:48
+msgctxt "Reset button options button text label"
+msgid "Text:"
+msgstr ""
+
+#: php/btnreset.php:51
+msgctxt "Reset button options button text placeholder"
+msgid "Enter text"
+msgstr ""
+
+#: php/btnsubmit.php:48
+msgctxt "Submit button options button text label"
+msgid "Text:"
+msgstr ""
+
+#: php/btnsubmit.php:51
+msgctxt "Submit button options button text placeholder"
+msgid "Enter text"
+msgstr ""
+
+#: php/cbx.php:93
+msgctxt "Checkbox control options required checkbox label text"
+msgid "Required (At least one checked)"
+msgstr ""
+
+#: php/cbx.php:98
+msgctxt "Checkbox control options saved data values separator options (Comma)"
+msgid "Comma"
+msgstr ""
+
+#: php/cbx.php:99
+msgctxt ""
+"Checkbox control options saved data values separator options (Semicolon)"
+msgid "Semicolon"
+msgstr ""
+
+#: php/cbx.php:100
+msgctxt ""
+"Checkbox control options saved data values separator options (Vertical bar)"
+msgid "Vertical bar"
+msgstr ""
+
+#: php/cbx.php:101
+msgctxt ""
+"Checkbox control options saved data values separator options (Single space)"
+msgid "Single space"
+msgstr ""
+
+#: php/cbx.php:102
+msgctxt ""
+"Checkbox control options saved data values separator options (New line)"
+msgid "New line"
+msgstr ""
+
+#: php/cbx.php:114
+msgctxt "Checkbox control options spacing checkbox label text"
+msgid "Space checkboxes automatically"
+msgstr ""
+
+#: php/cbx.php:120
+msgctxt "Checkbox control options initial value checkbox label text"
+msgid "Initial checked value"
+msgstr ""
+
+#: php/cbx.php:126
+msgctxt "Checkbox control options must be checked checkbox label text"
+msgid "Must be checked"
+msgstr ""
+
+#: php/cbx.php:137
+msgctxt "Control options tabs heading (Checkbox set)"
+msgid "Checkbox set"
+msgstr ""
+
+#: php/cbx.php:155
+msgctxt "Checkbox control options saved data values separator label"
+msgid "Saved data values separator:"
+msgstr ""
+
+#: php/cbx.php:262
+msgctxt "Checkbox add / edit item form placeholder (Enter label)"
+msgid "Enter label"
+msgstr ""
+
+#: php/cbx.php:267
+msgctxt "Checkbox add / edit item form placeholder (Enter value)"
+msgid "Enter value"
+msgstr ""
+
+#: php/cbx.php:286
+msgctxt ""
+"Checkbox add / edit item form placeholder (Enter validation error message)"
+msgid "Enter validation error message"
+msgstr ""
+
+#: php/cbx.php:296
+msgctxt "Checkbox add / edit item form button text (cancel)"
+msgid "Cancel"
+msgstr ""
+
+#: php/cbx.php:301
+msgctxt "Checkbox add / edit item form heading (Items)"
+msgid "Items:"
+msgstr ""
+
+#: php/configuration.php:13
+msgctxt "UI Theme drop down list option"
+msgid "Specify custom theme"
+msgstr ""
+
+#: php/configuration.php:47
+msgctxt "ReCaptcha configuration language option (Auto Detect)"
+msgid "Auto Detect"
+msgstr ""
+
+#: php/configuration.php:48
+msgctxt "ReCaptcha configuration language option (English, US)"
+msgid "English (US)"
+msgstr ""
+
+#: php/configuration.php:49
+msgctxt "ReCaptcha configuration language option (Arabic)"
+msgid "Arabic"
+msgstr ""
+
+#: php/configuration.php:50
+msgctxt "ReCaptcha configuration language option (Bulgarian)"
+msgid "Bulgarian"
+msgstr ""
+
+#: php/configuration.php:51
+msgctxt "ReCaptcha configuration language option (Catalan)"
+msgid "Catalan"
+msgstr ""
+
+#: php/configuration.php:52
+msgctxt "ReCaptcha configuration language option (Chinese, Simplified)"
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#: php/configuration.php:53
+msgctxt "ReCaptcha configuration language option (Chinese, Traditional)"
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#: php/configuration.php:54
+msgctxt "ReCaptcha configuration language option (Croatian)"
+msgid "Croatian"
+msgstr ""
+
+#: php/configuration.php:55
+msgctxt "ReCaptcha configuration language option (Czech)"
+msgid "Czech"
+msgstr ""
+
+#: php/configuration.php:56
+msgctxt "ReCaptcha configuration language option (Danish)"
+msgid "Danish"
+msgstr ""
+
+#: php/configuration.php:57
+msgctxt "ReCaptcha configuration language option (Dutch)"
+msgid "Dutch"
+msgstr ""
+
+#: php/configuration.php:58
+msgctxt "ReCaptcha configuration language option (English, UK)"
+msgid "English (UK)"
+msgstr ""
+
+#: php/configuration.php:59
+msgctxt "ReCaptcha configuration language option (Filipino)"
+msgid "Filipino"
+msgstr ""
+
+#: php/configuration.php:60
+msgctxt "ReCaptcha configuration language option (Finnish)"
+msgid "Finnish"
+msgstr ""
+
+#: php/configuration.php:61
+msgctxt "ReCaptcha configuration language option (French)"
+msgid "French"
+msgstr ""
+
+#: php/configuration.php:62
+msgctxt "ReCaptcha configuration language option (French, Canadian)"
+msgid "French (Canadian)"
+msgstr ""
+
+#: php/configuration.php:63
+msgctxt "ReCaptcha configuration language option (German)"
+msgid "German"
+msgstr ""
+
+#: php/configuration.php:64
+msgctxt "ReCaptcha configuration language option (German, Austria)"
+msgid "German (Austria)"
+msgstr ""
+
+#: php/configuration.php:65
+msgctxt "ReCaptcha configuration language option (German, Switzerland)"
+msgid "German (Switzerland)"
+msgstr ""
+
+#: php/configuration.php:66
+msgctxt "ReCaptcha configuration language option (Greek)"
+msgid "Greek"
+msgstr ""
+
+#: php/configuration.php:67
+msgctxt "ReCaptcha configuration language option (Hebrew)"
+msgid "Hebrew"
+msgstr ""
+
+#: php/configuration.php:68
+msgctxt "ReCaptcha configuration language option (Hindi)"
+msgid "Hindi"
+msgstr ""
+
+#: php/configuration.php:69
+msgctxt "ReCaptcha configuration language option (Hungarain)"
+msgid "Hungarain"
+msgstr ""
+
+#: php/configuration.php:70
+msgctxt "ReCaptcha configuration language option (Indonesian)"
+msgid "Indonesian"
+msgstr ""
+
+#: php/configuration.php:71
+msgctxt "ReCaptcha configuration language option (Italian)"
+msgid "Italian"
+msgstr ""
+
+#: php/configuration.php:72
+msgctxt "ReCaptcha configuration language option (Japanese)"
+msgid "Japanese"
+msgstr ""
+
+#: php/configuration.php:73
+msgctxt "ReCaptcha configuration language option (Korean)"
+msgid "Korean"
+msgstr ""
+
+#: php/configuration.php:74
+msgctxt "ReCaptcha configuration language option (Latvian)"
+msgid "Latvian"
+msgstr ""
+
+#: php/configuration.php:75
+msgctxt "ReCaptcha configuration language option (Lithuanian)"
+msgid "Lithuanian"
+msgstr ""
+
+#: php/configuration.php:76
+msgctxt "ReCaptcha configuration language option (Norwegian)"
+msgid "Norwegian"
+msgstr ""
+
+#: php/configuration.php:77
+msgctxt "ReCaptcha configuration language option (Persian)"
+msgid "Persian"
+msgstr ""
+
+#: php/configuration.php:78
+msgctxt "ReCaptcha configuration language option (Polish)"
+msgid "Polish"
+msgstr ""
+
+#: php/configuration.php:79
+msgctxt "ReCaptcha configuration language option (Portuguese)"
+msgid "Portuguese"
+msgstr ""
+
+#: php/configuration.php:80
+msgctxt "ReCaptcha configuration language option (Portuguese, Brazil)"
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+#: php/configuration.php:81
+msgctxt "ReCaptcha configuration language option (Portuguese, Portugal)"
+msgid "Portuguese (Portugal)"
+msgstr ""
+
+#: php/configuration.php:82
+msgctxt "ReCaptcha configuration language option (Romanian)"
+msgid "Romanian"
+msgstr ""
+
+#: php/configuration.php:83
+msgctxt "ReCaptcha configuration language option (Russian)"
+msgid "Russian"
+msgstr ""
+
+#: php/configuration.php:84
+msgctxt "ReCaptcha configuration language option (Serbian)"
+msgid "Serbian"
+msgstr ""
+
+#: php/configuration.php:85
+msgctxt "ReCaptcha configuration language option (Slovak)"
+msgid "Slovak"
+msgstr ""
+
+#: php/configuration.php:86
+msgctxt "ReCaptcha configuration language option (Slovenian)"
+msgid "Slovenian"
+msgstr ""
+
+#: php/configuration.php:87
+msgctxt "ReCaptcha configuration language option (Spanish)"
+msgid "Spanish"
+msgstr ""
+
+#: php/configuration.php:88
+msgctxt "ReCaptcha configuration language option (Spanish, Latin America)"
+msgid "Spanish (Latin America)"
+msgstr ""
+
+#: php/configuration.php:89
+msgctxt "ReCaptcha configuration language option (Swedish)"
+msgid "Swedish"
+msgstr ""
+
+#: php/configuration.php:90
+msgctxt "ReCaptcha configuration language option (Thai)"
+msgid "Thai"
+msgstr ""
+
+#: php/configuration.php:91
+msgctxt "ReCaptcha configuration language option (Turkish)"
+msgid "Turkish"
+msgstr ""
+
+#: php/configuration.php:92
+msgctxt "ReCaptcha configuration language option (Ukrainian)"
+msgid "Ukrainian"
+msgstr ""
+
+#: php/configuration.php:93
+msgctxt "ReCaptcha configuration language option (Vietnamese)"
+msgid "Vietnamese"
+msgstr ""
+
+#: php/csv_export.php:6
+msgctxt "CSV Export file name prefix"
+msgid "form_data"
+msgstr ""
+
+#: php/csv_export.php:62
+msgctxt "CSV Export informational message"
+msgid "No form data found."
+msgstr ""
+
+#: php/csv_export.php:71
+msgctxt "CSV Export error message"
+msgid "Error creating CSV file."
+msgstr ""
+
+#: php/data-grids.php:10
+msgctxt "Data Grids options heading"
+msgid "Select fields"
+msgstr ""
+
+#: php/data-grids.php:13
+msgctxt "Data Grids select fields option checkbox label"
+msgid "Select/Deselect All"
+msgstr ""
+
+#: php/data-grids.php:57
+msgctxt "Data Grids filter data placeholder"
+msgid "Filter data"
+msgstr ""
+
+#: php/data-grids.php:120
+msgctxt "Data Grids informational message"
+msgid "No form data found."
+msgstr ""
+
+#: php/ddl.php:159
+msgctxt "Control options drop down list item sets (Is initial item set)"
+msgid "Is initial item set"
+msgstr ""
+
+#: php/ddl.php:169
+msgctxt "Control options tabs heading (Item sets, ddl)"
+msgid "Item sets"
+msgstr ""
+
+#: php/ddl.php:187
+msgctxt "Control options drop down list general label (Selected Value)"
+msgid "Selected Value:"
+msgstr ""
+
+#: php/ddl.php:277
+msgctxt ""
+"Control options drop down list item sets placeholder (Enter item set name)"
+msgid "Enter item set name"
+msgstr ""
+
+#: php/ddl.php:283
+msgctxt ""
+"Control options drop down list item sets image command title (Delete item "
+"set)"
+msgid "Delete item set"
+msgstr ""
+
+#: php/ddl.php:340
+msgctxt "Control general options drop down list selected value first option"
+msgid "Select selected value..."
+msgstr ""
+
+#: php/ddl.php:362
+msgctxt ""
+"Control general options drop down list selected value no items found option"
+msgid "No items found"
+msgstr ""
+
+#: php/ddl.php:417
+msgctxt "Drop down list add / edit item set form drop down first option"
+msgid "Select item set..."
+msgstr ""
+
+#: php/ddl.php:418
+msgctxt "Drop down list add / edit item set form drop down option (Add new)"
+msgid "Add new"
+msgstr ""
+
+#: php/ddl.php:437
+msgctxt "Drop down list add / edit item form checkbox label text"
+msgid "Item indicates if field has a selected value"
+msgstr ""
+
+#: php/ddl.php:452
+msgctxt ""
+"Drop down list add / edit item form placeholder (Enter item description)"
+msgid "Enter item description"
+msgstr ""
+
+#: php/ddl.php:457
+msgctxt "Drop down list add / edit item form placeholder (Enter item value)"
+msgid "Enter item value"
+msgstr ""
+
+#: php/ddl.php:477
+msgctxt "Drop down list add / edit item form button text (cancel)"
+msgid "Cancel"
+msgstr ""
+
+#: php/ddl.php:482
+msgctxt "Drop down list add / edit item form heading (Items)"
+msgid "Items:"
+msgstr ""
+
+#: php/ddl.php:546
+msgctxt "Drop down list add / edit item form drop down list option (sub ddl)"
+msgid "No sub drop down list"
+msgstr ""
+
+#: php/email-options.php:52
+msgctxt "Email template form fields drop down list informational message"
+msgid "No form fields found."
+msgstr ""
+
+#: php/email-options.php:124
+msgctxt "Email templates form options informational message"
+msgid "No email templates found for form."
+msgstr ""
+
+#: php/emptycell.php:11
+msgctxt "Empty cell control informational message"
+msgid ""
+"En empty cell can be used for layout purposes i.e. spacing other controls."
+msgstr ""
+
+#: php/emptycell.php:24
+msgctxt "Empty cell control form builder label"
+msgid "Empty Cell"
+msgstr ""
+
+#: php/form-builder-admin.php:59
+msgctxt "Form builder image command title (Add new row)"
+msgid "Add new row"
+msgstr ""
+
+#: php/form-builder-admin.php:83
+msgctxt "Form builder image command title (Options)"
+msgid "Options"
+msgstr ""
+
+#: php/form-builder-public.php:45
+msgctxt "Pop up form default open form link text"
+msgid "Open Form"
+msgstr ""
+
+#: php/form-builder-public.php:60
+msgctxt "Server error message for public forms"
+msgid "Server error, please try again later."
+msgstr ""
+
+#: php/form-builder-public.php:61
+msgctxt "Required text for public form validation"
+msgid "required"
+msgstr ""
+
+#: php/form-builder-public.php:62
+msgctxt "Invalid email address text for public form validation"
+msgid "Valid email address required for"
+msgstr ""
+
+#: php/form-builder-public.php:63
+msgctxt "Confirm Text Box control text for public form validation"
+msgid "Matching values required for"
+msgstr ""
+
+#: php/form-builder-public.php:64
+msgctxt "Confirm Text Box control text for public form validation (and)"
+msgid "and"
+msgstr ""
+
+#: php/form-builder-public.php:65
+msgctxt "Checkbox at least one required string for public form validation"
+msgid "At least one checked value required for"
+msgstr ""
+
+#: php/form-builder-public.php:66
+msgctxt ""
+"Default successful text for public form validation when form is not saved"
+msgid "Form validated successfully."
+msgstr ""
+
+#: php/form-builder-public.php:67
+msgctxt "Duplicate form error message for public forms"
+msgid "Duplicate form found, a form can only be included once per page."
+msgstr ""
+
+#: php/form-style.php:5
+msgctxt "Form style drop down list option (Font weight, none)"
+msgid "None"
+msgstr ""
+
+#: php/form-style.php:6
+msgctxt "Form style drop down list option (Font weight, normal)"
+msgid "Normal"
+msgstr ""
+
+#: php/form-style.php:7
+msgctxt "Form style drop down list option (Font weight, bold)"
+msgid "Bold"
+msgstr ""
+
+#: php/form-style.php:8
+msgctxt "Form style drop down list option (Font weight, bolder)"
+msgid "Bolder"
+msgstr ""
+
+#: php/form-style.php:9
+msgctxt "Form style drop down list option (Font weight, lighter)"
+msgid "Lighter"
+msgstr ""
+
+#: php/form-style.php:16
+msgctxt "Form layout option (Auto)"
+msgid "Auto"
+msgstr ""
+
+#: php/form-style.php:17
+msgctxt "Form layout option (Grid)"
+msgid "Grid"
+msgstr ""
+
+#: php/form-style.php:18
+msgctxt "Form layout option (Flexi Grid)"
+msgid "Flexi Grid"
+msgstr ""
+
+#: php/form-style.php:25
+msgctxt "Cell vertical align option (Top)"
+msgid "Top"
+msgstr ""
+
+#: php/form-style.php:26
+msgctxt "Cell vertical align option (Middle)"
+msgid "Middle"
+msgstr ""
+
+#: php/form-style.php:27
+msgctxt "Cell vertical align option (Bottom)"
+msgid "Bottom"
+msgstr ""
+
+#: php/form-style.php:34
+msgctxt "Control options style drop down list option (Align, none)"
+msgid "None"
+msgstr ""
+
+#: php/form-style.php:35
+msgctxt "Control options style drop down list option (Align, left)"
+msgid "Left"
+msgstr ""
+
+#: php/form-style.php:36
+msgctxt "Control options style drop down list option (Align, right)"
+msgid "Right"
+msgstr ""
+
+#: php/help.php:7
+msgctxt "Help / More Info text (Form field name)"
+msgid ""
+"<p>The name of the field, to be used with validation messages for required "
+"fields as well as saved form data, data grids and CSV and also email "
+"templates.</p><p>Each field name must be unique for form and can not contain "
+"any of the following characters: & \" ' < >.</p>"
+msgstr ""
+
+#: php/help.php:10
+msgctxt "Help / More Info text (Form default layout)"
+msgid ""
+"<p>Select form layout from:</p><p>Auto layout - The width of each cell will "
+"be determined by its contents.</p><p>Grid layout - Each row will have "
+"specified amount of cells, the width of each being total (form) width / "
+"number of cells.</p><p>Flexi grid layout - Each cell will be the length of "
+"the widest cell for that column found in all rows.</p>"
+msgstr ""
+
+#: php/help.php:13
+msgctxt "Help / More Info text (Form layout cells per row)"
+msgid "Grid layout will only be active if this value is set."
+msgstr ""
+
+#: php/help.php:16
+msgctxt "Help / More Info text (Form layout cell spacing)"
+msgid "The horizontal space between cells."
+msgstr ""
+
+#: php/help.php:19
+msgctxt "Help / More Info text (Form layout row spacing)"
+msgid "The vertical space between rows."
+msgstr ""
+
+#: php/help.php:22
+msgctxt "Help / More Info text (Form layout cell padding)"
+msgid "The padding inside cells."
+msgstr ""
+
+#: php/help.php:25
+msgctxt "Help / More Info text (Form layout vertical align)"
+msgid "The vertical alignment of cell content."
+msgstr ""
+
+#: php/help.php:28
+msgctxt "Help / More Info text (Drop down list control item option)"
+msgid ""
+"<p>If checked this item, if selected from drop down list and form is "
+"submitted, will indicate that the field has no (selected) value.</p><p>If "
+"the field is set to be a required field the form validation will fail with "
+"appropiate error message e.g. \"Field required\".</p><p>Example of the item "
+"values:<br /><table><tr><td class='class-bold' >Item description:</"
+"td><td>Select value...</td></tr><tr><td class='class-bold' >Item value:</"
+"td><td>-1</td></tr></table></p>"
+msgstr ""
+
+#: php/help.php:31
+msgctxt ""
+"Help / More Info text (Drop down list control general option, selected value)"
+msgid ""
+"<p>The initial selected value when drop down list is rendered.</"
+"p><p>Possible values are from the initial item set, configurable on \"Item "
+"sets\" tab.</p>"
+msgstr ""
+
+#: php/help.php:34
+msgctxt "Help / More Info text (Drop down list control item set option)"
+msgid ""
+"<p>The initial item set which will be loaded when drop down list is rendered."
+"</p><p>If this field is not set for any item sets for this drop down list "
+"control the first item set will be the initial item set.</p>"
+msgstr ""
+
+#: php/help.php:37
+msgctxt "Help / More Info text (Checkbox control general option, validation)"
+msgid ""
+"<p>Validation will fail if not at least one checkbox in this checkbox set is "
+"checked when form is submitted.</p>"
+msgstr ""
+
+#: php/help.php:40
+msgctxt "Help / More Info text (Checkbox control item option)"
+msgid ""
+"<p>Validation will fail if this checkbox is not checked when form is "
+"submitted.</p><p>Useful for where the user is required to agree to a "
+"requirement e.g. Terms & Conditions.</p>"
+msgstr ""
+
+#: php/help.php:43
+msgctxt "Help / More Info text (Checkbox control item option)"
+msgid ""
+"<p>The error message that will be displayed when this checkbox is set to "
+"must be checked and it is not checked and form validation subsequently fails."
+"</p>"
+msgstr ""
+
+#: php/help.php:46
+msgctxt "Help / More Info text (Checkbox control style option)"
+msgid ""
+"<p>The number of checkboxes that will be displayed in a row.</p><p>If no "
+"value is entered the checboxes will be in one line, container width "
+"permitting.</p>"
+msgstr ""
+
+#: php/help.php:49
+msgctxt "Help / More Info text (Checkbox control style option)"
+msgid ""
+"<p>Apply flexi width algorithm to all checkboxes in set i.e. </p><p>Each "
+"cell / checkbox will be the length of the widest cell / checkbox for that "
+"column found in all rows.</p><p>This is only applicable when a value is "
+"specified for \"Number per row\".</p>"
+msgstr ""
+
+#: php/help.php:52
+msgctxt "Help / More Info text (Checkbox control general option)"
+msgid ""
+"<p>When multiple values are checked they will be separated using the "
+"character specified e.g.</p><p>Example, checked, values or</p><p>Example; "
+"checked; values etc.</p>"
+msgstr ""
+
+#: php/help.php:55
+msgctxt "Help / More Info text (Radio button style option)"
+msgid ""
+"<p>The number of radio buttons that will be displayed in a row.</p><p>If no "
+"value is entered the radio buttons will be in one line, container width "
+"permitting.</p>"
+msgstr ""
+
+#: php/help.php:58
+msgctxt "Help / More Info text (Radio button style option)"
+msgid ""
+"<p>Apply flexi width algorithm to all radio buttons in set i.e. </p><p>Each "
+"cell / radio button will be the length of the widest cell / radio button for "
+"that column found in all rows.</p><p>This is only applicable when a value is "
+"specified for \"Number per row\".</p>"
+msgstr ""
+
+#: php/help.php:61
+msgctxt "Help / More Info text (Plugin configuration Specify custom UI Theme)"
+msgid ""
+"<p>To use a custom jQuery UI theme follow the following steps:</"
+"p><ol><li>Upload the custom jQuery UI theme folder containing neccesary "
+"files to the following subfolder of the plugin folder: <br />\""
+msgstr ""
+
+#: php/help.php:64
+msgctxt "Help / More Info text (Plugin configuration exclude UI Theme)"
+msgid ""
+"<p>This option is for excluding jQuery UI theme from this plugin for "
+"WordPress admin.</p><p>This option would be applicable when another active "
+"plugin includes the jQuery UI theme files.</p>"
+msgstr ""
+
+#: php/help.php:67
+msgctxt "Help / More Info text (Plugin configuration ReCaptcha)"
+msgid ""
+"<p>ReCaptcha protects your website from spam by presenting the user with a "
+"challenge to complete in order to submit the form.</p><p>This prevents "
+"automated scripts i.e. bots from completing and submitting a form as it "
+"can't complete the ReCaptcha challenge successfully.</p><p>You can sign up "
+"for your Site and Secret keys at <a href='https://www.google.com/recaptcha/"
+"intro/index.html' target='_blank' >Google ReCaptcha</a>.</p><p>Please ensure "
+"the keys entered are correct as the ReCaptcha controls will only load if "
+"keys are correct.</p>"
+msgstr ""
+
+#: php/help.php:70
+msgctxt "Help / More Info text (Control style option, Custom CSS Class)"
+msgid ""
+"<p>Custom CSS Class or Classes to assign to control for use with custom "
+"styling.</p><p>Separate multiple class names with a space e.g. "
+"customcssclassa customcssclassb.</p>"
+msgstr ""
+
+#: php/help.php:73
+msgctxt ""
+"Help / More Info text (Email template option, Send to email address form "
+"field)"
+msgid ""
+"<p>Select form field (email address) to send the auto reply email to.</"
+"p><p>Only form fields (controls) of type \"Text Box\" with option \"Email\" "
+"ticked will be listed for the selected form.</p><p>If none is listed you "
+"would need to add a \"Text Box\" form control with option \"Email\" ticked "
+"to the form and save the form first, then reload this page.</p><p>It is "
+"advisable to also tick the \"Required\" option for this form field (control) "
+"to ensure there exists a value for it when form is submitted.</p>"
+msgstr ""
+
+#: php/help.php:76
+msgctxt "Help / More Info text (Text box control general options, Validation)"
+msgid ""
+"<p>Numeric: Text Box control is limited to numeric characters only.</"
+"p><p>Password: Text Box control characters are masked.</p>"
+msgstr ""
+
+#: php/help.php:79
+msgctxt "Help / More Info text (Text box control general options, Validation)"
+msgid ""
+"<p>Required: Validation will fail if no value is entered.</p><p>Email: "
+"Validation will fail if value is not a valid email address.</p><p>Confirm: "
+"Validation will fail if the selected Text Box control to confirm has a value "
+"that is different from the value of this Text Box control.</p>"
+msgstr ""
+
+#: php/i18-constants.php:3
+msgctxt "Form builder control name"
+msgid "Label"
+msgstr ""
+
+#: php/i18-constants.php:4
+msgctxt "Form builder control name"
+msgid "Text Box"
+msgstr ""
+
+#: php/i18-constants.php:5
+msgctxt "Form builder control name"
+msgid "Text Area"
+msgstr ""
+
+#: php/i18-constants.php:6
+msgctxt "Form builder control name"
+msgid "Drop Down List"
+msgstr ""
+
+#: php/i18-constants.php:7
+msgctxt "Form builder control name"
+msgid "Checkbox"
+msgstr ""
+
+#: php/i18-constants.php:8
+msgctxt "Form builder control name"
+msgid "Radio Button"
+msgstr ""
+
+#: php/i18-constants.php:9
+msgctxt "Form builder control name"
+msgid "ReCaptcha"
+msgstr ""
+
+#: php/i18-constants.php:10
+msgctxt "Form builder control name"
+msgid "Reset Button"
+msgstr ""
+
+#: php/i18-constants.php:11
+msgctxt "Form builder control name"
+msgid "Submit Button"
+msgstr ""
+
+#: php/i18-constants.php:12
+msgctxt "Form builder control name"
+msgid "Empty Cell"
+msgstr ""
+
+#: php/i18-constants.php:13
+msgctxt "Required fields message (for admins)"
+msgid "Required fields."
+msgstr ""
+
+#: php/i18-constants.php:14
+msgctxt "Form not found error message."
+msgid "Form not found."
+msgstr ""
+
+#: php/i18-constants.php:15
+msgctxt "Admin info message when styling form controls"
+msgid ""
+"Select None or leave empty to default to form default styles if defined or "
+"active theme styles."
+msgstr ""
+
+#: php/i18-constants.php:16
+msgctxt "Help / More info link title"
+msgid "Click for more info"
+msgstr ""
+
+#: php/i18-constants.php:17
+msgctxt "Checkbox add / edit item form heading (add)"
+msgid "Add checkbox:"
+msgstr ""
+
+#: php/i18-constants.php:18 php/i18-constants.php:26
+msgctxt "Checkbox add / edit item form button text (add)"
+msgid "Add"
+msgstr ""
+
+#: php/i18-constants.php:19
+msgctxt "Drop down list add / edit item set form button text (add)"
+msgid "Add item set"
+msgstr ""
+
+#: php/i18-constants.php:20
+msgctxt "Drop down list add / edit item form heading (add)"
+msgid "Add item:"
+msgstr ""
+
+#: php/i18-constants.php:21
+msgctxt "Drop down list add / edit item form button text (add)"
+msgid "Add item"
+msgstr ""
+
+#: php/i18-constants.php:22
+msgctxt "Email template insert Form field shortcode tinymce button title"
+msgid "Insert WP Any Form field shortcode"
+msgstr ""
+
+#: php/i18-constants.php:23
+msgctxt "Form builder image command title (Add new cell)"
+msgid "Add new cell"
+msgstr ""
+
+#: php/i18-constants.php:24
+msgctxt "Form builder image command title (Delete cell)"
+msgid "Delete"
+msgstr ""
+
+#: php/i18-constants.php:25
+msgctxt "Checkbox add / edit item form heading (add)"
+msgid "Add radio button:"
+msgstr ""
+
+#: php/i18-constants.php:27
+msgctxt "Control options tabs heading (General)"
+msgid "General"
+msgstr ""
+
+#: php/i18-constants.php:28
+msgctxt "Control options tabs heading (Style)"
+msgid "Style"
+msgstr ""
+
+#: php/i18-constants.php:29
+msgctxt "Control options style label (Font Size)"
+msgid "Font Size:"
+msgstr ""
+
+#: php/i18-constants.php:30
+msgctxt "Control options style label (Font Weight)"
+msgid "Font Weight:"
+msgstr ""
+
+#: php/i18-constants.php:31
+msgctxt "Control options style label (Font Colour)"
+msgid "Font Colour:"
+msgstr ""
+
+#: php/i18-constants.php:32
+msgctxt "Control options style label (Custom CSS Class)"
+msgid "Custom CSS Class:"
+msgstr ""
+
+#: php/i18-constants.php:33
+msgctxt "Control options style label (Width)"
+msgid "Width:"
+msgstr ""
+
+#: php/i18-constants.php:34
+msgctxt "Control options style placeholder (Enter width)"
+msgid "Enter width"
+msgstr ""
+
+#: php/i18-constants.php:35
+msgctxt "Control options style label (Height)"
+msgid "Height:"
+msgstr ""
+
+#: php/i18-constants.php:36
+msgctxt "Control options style placeholder (Enter height)"
+msgid "Enter height"
+msgstr ""
+
+#: php/i18-constants.php:37
+msgctxt "Control options style checkbox label"
+msgid "Use control defined colour"
+msgstr ""
+
+#: php/i18-constants.php:38
+msgctxt "Control options style label (Align)"
+msgid "Align:"
+msgstr ""
+
+#: php/i18-constants.php:39
+msgctxt "Control options general label (Field Name)"
+msgid "Field Name:"
+msgstr ""
+
+#: php/i18-constants.php:40
+msgctxt "Control options general placeholder (Enter field name)"
+msgid "Enter field name"
+msgstr ""
+
+#: php/i18-constants.php:41
+msgctxt "Control options general label (Validation)"
+msgid "Validation:"
+msgstr ""
+
+#: php/i18-constants.php:42
+msgctxt "Control options style label (Number per row)"
+msgid "Number per row:"
+msgstr ""
+
+#: php/i18-constants.php:43
+msgctxt "Control options style placeholder (Enter number per row)"
+msgid "Enter number per row"
+msgstr ""
+
+#: php/i18-constants.php:44
+msgctxt "Control options style label (Auto Spacing)"
+msgid "Auto Spacing:"
+msgstr ""
+
+#: php/i18-constants.php:45
+msgctxt "Control options items list image command title (Edit item)"
+msgid "Edit item"
+msgstr ""
+
+#: php/i18-constants.php:46
+msgctxt "Control options items list image command title (Delete item)"
+msgid "Delete item"
+msgstr ""
+
+#: php/i18-constants.php:47
+msgctxt "Control options items list informational message"
+msgid "No items found."
+msgstr ""
+
+#: php/i18-constants.php:48
+msgctxt "Control options general required checkbox label text"
+msgid "Required"
+msgstr ""
+
+#: php/i18-constants.php:49
+msgctxt "Data Grids CSV date and time column name"
+msgid "Submit date and time"
+msgstr ""
+
+#: php/i18-constants.php:50
+msgctxt "Link to plugin configuration text"
+msgid "Configuration"
+msgstr ""
+
+#: php/lbl.php:46
+msgctxt "Label general control options label (Label text)"
+msgid "Text:"
+msgstr ""
+
+#: php/lbl.php:49
+msgctxt "Label control general options placeholder (Label text)"
+msgid "Enter text"
+msgstr ""
+
+#: php/rbtn.php:105
+msgctxt "Radio button control options spacing checkbox label text"
+msgid "Space radio buttons automatically"
+msgstr ""
+
+#: php/rbtn.php:112
+msgctxt ""
+"Radio button add / edit item form initial value radio button label text "
+"(Checked)"
+msgid "Checked"
+msgstr ""
+
+#: php/rbtn.php:119
+msgctxt ""
+"Radio button add / edit item form initial value radio button label text (Not "
+"checked)"
+msgid "Not checked"
+msgstr ""
+
+#: php/rbtn.php:130
+msgctxt "Control options tabs heading (Radio button set)"
+msgid "Radio button set"
+msgstr ""
+
+#: php/rbtn.php:239
+msgctxt "Radio button add / edit item form placeholder (Enter label)"
+msgid "Enter label"
+msgstr ""
+
+#: php/rbtn.php:244
+msgctxt "Radio button add / edit item form placeholder (Enter value)"
+msgid "Enter value"
+msgstr ""
+
+#: php/rbtn.php:251
+msgctxt "Radio button add / edit item form label (Initial value)"
+msgid "Initial value:"
+msgstr ""
+
+#: php/rbtn.php:269
+msgctxt "Radio button add / edit item form button text (cancel)"
+msgid "Cancel"
+msgstr ""
+
+#: php/rbtn.php:274
+msgctxt "Radio button add / edit item form heading (Items)"
+msgid "Items:"
+msgstr ""
+
+#: php/recaptcha.php:13
+msgctxt "ReCaptcha control default message (Validating)"
+msgid "Validating ReCaptcha, please wait..."
+msgstr ""
+
+#: php/recaptcha.php:14
+msgctxt "ReCaptcha control default message (Validation failed)"
+msgid "Invalid ReCaptcha, please try again."
+msgstr ""
+
+#: php/recaptcha.php:24
+msgctxt "ReCaptcha control theme option (Light)"
+msgid "Light"
+msgstr ""
+
+#: php/recaptcha.php:25
+msgctxt "ReCaptcha control theme option (Dark)"
+msgid "Dark"
+msgstr ""
+
+#: php/recaptcha.php:38
+msgctxt "Control options general label (Validating ReCaptcha message)"
+msgid "Validating ReCaptcha message:"
+msgstr ""
+
+#: php/recaptcha.php:50
+msgctxt "Control options general label (ReCaptcha validation failed message)"
+msgid "ReCaptcha validation failed message:"
+msgstr ""
+
+#: php/recaptcha.php:62
+msgctxt "Control options general label (ReCaptcha Theme)"
+msgid "Theme:"
+msgstr ""
+
+#: php/recaptcha.php:71
+#, php-format
+msgctxt "ReCaptcha control options informational message"
+msgid ""
+"Please ensure the correct ReCaptcha Site and Secret keys are entered in "
+"plugin %s"
+msgstr ""
+
+#: php/submit-form.php:138
+msgctxt "Form submission error message"
+msgid "Form submission error, please try again later."
+msgstr ""
+
+#: php/txt.php:58
+msgctxt "Control options text box general checkbox label text (Numeric)"
+msgid "Numeric"
+msgstr ""
+
+#: php/txt.php:65
+msgctxt "Control options text box general checkbox label text (Password)"
+msgid "Password"
+msgstr ""
+
+#: php/txt.php:72
+msgctxt "Control options text box general checkbox label text (Email)"
+msgid "Email"
+msgstr ""
+
+#: php/txt.php:78
+msgctxt "Control options text box general checkbox label text (Confirm)"
+msgid "Confirm"
+msgstr ""
+
+#: php/txt.php:113
+msgctxt "Control options text box general label (Value)"
+msgid "Value:"
+msgstr ""
+
+#: php/txt.php:116
+msgctxt "Control options text box general placeholder (Enter value)"
+msgid "Enter value"
+msgstr ""
+
+#: php/txt.php:121
+msgctxt "Control options text box general label (Placeholder)"
+msgid "Placeholder:"
+msgstr ""
+
+#: php/txt.php:124
+msgctxt "Control options text box general placeholder (Enter placeholder)"
+msgid "Enter placeholder"
+msgstr ""
+
+#: php/txt.php:129
+msgctxt "Control options text box general label (Max length)"
+msgid "Max length:"
+msgstr ""
+
+#: php/txt.php:132
+msgctxt "Control options text box general placeholder (Enter max length)"
+msgid "Enter max length"
+msgstr ""
+
+#: php/txt.php:139
+msgctxt "Control options general label (Type)"
+msgid "Type:"
+msgstr ""
+
+#: php/txt.php:267
+msgctxt "Select Text Box control to confirm drop down list option"
+msgid "Select Text Box control to confirm"
+msgstr ""
+
+#: php/txt.php:282
+msgctxt ""
+"Select Text Box control to confirm drop down list informational option"
+msgid "Add another Text Box control to confirm to form first."
+msgstr ""
+
+#: php/txta.php:76
+msgctxt "Control options text area general label (Value)"
+msgid "Value:"
+msgstr ""
+
+#: php/txta.php:79
+msgctxt "Control options text area general placeholder (Enter value)"
+msgid "Enter value"
+msgstr ""
+
+#: php/txta.php:84
+msgctxt "Control options text area general label (Placeholder)"
+msgid "Placeholder:"
+msgstr ""
+
+#: php/txta.php:87
+msgctxt "Control options text area general placeholder (Enter placeholder)"
+msgid "Enter placeholder"
+msgstr ""
+
+#: php/txta.php:92
+msgctxt "Control options text area general label (Max length)"
+msgid "Max length:"
+msgstr ""
+
+#: php/txta.php:95
+msgctxt "Control options text area general placeholder (Enter max length)"
+msgid "Enter max length"
+msgstr ""
+
+#: wp-any-form.php:69
+msgctxt "A plural descriptive name for the post type"
+msgid "Any Forms"
+msgstr ""
+
+#: wp-any-form.php:71
+msgctxt "General name for the post type"
+msgid "Any Forms"
+msgstr ""
+
+#: wp-any-form.php:72
+msgctxt "Name for one object of this post type"
+msgid "Form"
+msgstr ""
+
+#: wp-any-form.php:73
+msgctxt "The add new item text"
+msgid "Add new form"
+msgstr ""
+
+#: wp-any-form.php:74
+msgctxt "The edit item text"
+msgid "Edit form"
+msgstr ""
+
+#: wp-any-form.php:75
+msgctxt "The new item text"
+msgid "New form"
+msgstr ""
+
+#: wp-any-form.php:76
+msgctxt "The view item text"
+msgid "View form"
+msgstr ""
+
+#: wp-any-form.php:77
+msgctxt "The search items text"
+msgid "Search forms"
+msgstr ""
+
+#: wp-any-form.php:78
+msgctxt "The not found text"
+msgid "No forms found"
+msgstr ""
+
+#: wp-any-form.php:79
+msgctxt "The not found in trash text"
+msgid "No forms found in Trash"
+msgstr ""
+
+#: wp-any-form.php:81
+msgctxt "A short descriptive summary of what the post type is"
+msgid "Form that can contain different input items"
+msgstr ""
+
+#: wp-any-form.php:92
+msgctxt "A plural descriptive name for the post type"
+msgid "Form Data"
+msgstr ""
+
+#: wp-any-form.php:94
+msgctxt "General name for the post type"
+msgid "Form Data"
+msgstr ""
+
+#: wp-any-form.php:95
+msgctxt "Name for one object of this post type"
+msgid "Form Data"
+msgstr ""
+
+#: wp-any-form.php:96
+msgctxt "The add new item text"
+msgid "Add new form data"
+msgstr ""
+
+#: wp-any-form.php:97
+msgctxt ""
+"The edit item text (disabled, thus the page title when viewing Form Data)"
+msgid "Form Data"
+msgstr ""
+
+#: wp-any-form.php:98
+msgctxt "The new item text"
+msgid "New form data"
+msgstr ""
+
+#: wp-any-form.php:99
+msgctxt "The view item text"
+msgid "View form data"
+msgstr ""
+
+#: wp-any-form.php:100
+msgctxt "The search items text"
+msgid "Search form data"
+msgstr ""
+
+#: wp-any-form.php:101
+msgctxt "The not found text"
+msgid "No form data found"
+msgstr ""
+
+#: wp-any-form.php:102
+msgctxt "The not found in trash text"
+msgid "No form data found in Trash"
+msgstr ""
+
+#: wp-any-form.php:104
+msgctxt "A short descriptive summary of what the post type is"
+msgid "Saved Form Data"
+msgstr ""
+
+#: wp-any-form.php:145
+msgctxt "A plural descriptive name for the post type"
+msgid "Email Templates"
+msgstr ""
+
+#: wp-any-form.php:147
+msgctxt "General name for the post type"
+msgid "Email Templates"
+msgstr ""
+
+#: wp-any-form.php:148
+msgctxt "Name for one object of this post type"
+msgid "Email Template"
+msgstr ""
+
+#: wp-any-form.php:149
+msgctxt "The add new item text"
+msgid "Add new email template"
+msgstr ""
+
+#: wp-any-form.php:150
+msgctxt "The edit item text"
+msgid "Edit email template"
+msgstr ""
+
+#: wp-any-form.php:151
+msgctxt "The new item text"
+msgid "New email template"
+msgstr ""
+
+#: wp-any-form.php:152
+msgctxt "The view item text"
+msgid "View email template"
+msgstr ""
+
+#: wp-any-form.php:153
+msgctxt "The search items text"
+msgid "Search email templates"
+msgstr ""
+
+#: wp-any-form.php:154
+msgctxt "The not found text"
+msgid "No email templates found"
+msgstr ""
+
+#: wp-any-form.php:155
+msgctxt "The not found in trash text"
+msgid "No email templates found in Trash"
+msgstr ""
+
+#: wp-any-form.php:157
+msgctxt "A short descriptive summary of what the post type is"
+msgid "Saved Form Email Templates"
+msgstr ""

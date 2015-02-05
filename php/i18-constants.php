@@ -1,0 +1,52 @@
+<?php
+
+define('WPAF_CONTROL_FULL_TITLE_LABEL', _x("Label", "Form builder control name", "wp-any-form"));
+define('WPAF_CONTROL_FULL_TITLE_TEXTBOX', _x("Text Box", "Form builder control name", "wp-any-form"));
+define('WPAF_CONTROL_FULL_TITLE_TEXTAREA', _x("Text Area", "Form builder control name", "wp-any-form"));
+define('WPAF_CONTROL_FULL_TITLE_DROPDOWNLIST', _x("Drop Down List", "Form builder control name", "wp-any-form"));
+define('WPAF_CONTROL_FULL_TITLE_CHECKBOX', _x("Checkbox", "Form builder control name", "wp-any-form"));
+define('WPAF_CONTROL_FULL_TITLE_RADIOBUTTON', _x("Radio Button", "Form builder control name", "wp-any-form"));
+define('WPAF_CONTROL_FULL_TITLE_RECAPTCHA', _x("ReCaptcha", "Form builder control name", "wp-any-form"));
+define('WPAF_CONTROL_FULL_TITLE_BTNRESET', _x("Reset Button", "Form builder control name", "wp-any-form"));
+define('WPAF_CONTROL_FULL_TITLE_BTNSUBMIT', _x("Submit Button", "Form builder control name", "wp-any-form"));
+define('WPAF_CONTROL_FULL_TITLE_EMPTYCELL', _x("Empty Cell", "Form builder control name", "wp-any-form"));
+define('REQUIRED_HTML_STR', ASTERISK_HTML_STR . " " . _x("Required fields.", "Required fields message (for admins)", "wp-any-form"));
+define('WPAF_FORM_NOT_FOUND_MSG', _x("Form not found.", "Form not found error message.", "wp-any-form"));
+define('SELECT_NONE_LEAVE_EMPTY_CONTROL_STR', _x("Select None or leave empty to default to form default styles if defined or active theme styles.", "Admin info message when styling form controls", "wp-any-form"));
+define('HELP_CLICK_FOR_MORE_INFO_STR', _x("Click for more info", "Help / More info link title", "wp-any-form"));
+define('ADD_CBX_HEADING_TEXT', _x("Add checkbox:", "Checkbox add / edit item form heading (add)", "wp-any-form"));
+define('ADD_CBX_BTN_TEXT', _x("Add", "Checkbox add / edit item form button text (add)", "wp-any-form"));
+define('ADD_DDL_ITEM_SET_BTN_TEXT', _x("Add item set", "Drop down list add / edit item set form button text (add)", "wp-any-form"));
+define('ADD_DDL_ITEM_HEADING_TEXT', _x("Add item:", "Drop down list add / edit item form heading (add)", "wp-any-form"));
+define('ADD_DDL_ITEM_BTN_TEXT', _x("Add item", "Drop down list add / edit item form button text (add)", "wp-any-form"));
+define('EMAIL_TEMPLATE_FIELD_SHORTCODE_INSERT_TITLE', _x("Insert WP Any Form field shortcode", "Email template insert Form field shortcode tinymce button title", "wp-any-form"));
+define('FORM_BUILDER_IMG_CMD_TITLE_ADDCELL', _x("Add new cell", "Form builder image command title (Add new cell)", "wp-any-form"));
+define('FORM_BUILDER_IMG_CMD_TITLE_DELCELL', _x("Delete", "Form builder image command title (Delete cell)", "wp-any-form"));
+define('ADD_RBTN_HEADING_TEXT', _x("Add radio button:", "Checkbox add / edit item form heading (add)", "wp-any-form"));
+define('ADD_RBTN_BTN_TEXT', _x("Add", "Checkbox add / edit item form button text (add)", "wp-any-form"));
+define('CONTROL_OPTIONS_TABS_HEADING_GENERAL', _x("General", "Control options tabs heading (General)", "wp-any-form"));
+define('CONTROL_OPTIONS_TABS_HEADING_STYLE', _x("Style", "Control options tabs heading (Style)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_LABEL_FONT_SIZE', _x("Font Size:", "Control options style label (Font Size)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_LABEL_FONT_WEIGHT', _x("Font Weight:", "Control options style label (Font Weight)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_LABEL_FONT_COLOUR', _x("Font Colour:", "Control options style label (Font Colour)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_CUSTOM_CSS_CLASS', _x("Custom CSS Class:", "Control options style label (Custom CSS Class)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_LABEL_WIDTH', _x("Width:", "Control options style label (Width)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_PLACEHOLDER_WIDTH', _x("Enter width", "Control options style placeholder (Enter width)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_LABEL_HEIGHT', _x("Height:", "Control options style label (Height)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_PLACEHOLDER_HEIGHT', _x("Enter height", "Control options style placeholder (Enter height)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_CBX_USE_DEFINED_FONT_COLOUR', _x("Use control defined colour", "Control options style checkbox label", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_LABEL_ALIGN', _x("Align:", "Control options style label (Align)", "wp-any-form"));
+define('CONTROL_OPTIONS_GENERAL_LABEL_FIELD_NAME', _x("Field Name:", "Control options general label (Field Name)", "wp-any-form"));
+define('CONTROL_OPTIONS_GENERAL_PLACEHOLDER_FIELD_NAME', _x("Enter field name", "Control options general placeholder (Enter field name)", "wp-any-form"));
+define('CONTROL_OPTIONS_GENERAL_LABEL_VALIDATION', _x("Validation:", "Control options general label (Validation)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_LABEL_NUMBER_PER_ROW', _x("Number per row:", "Control options style label (Number per row)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_PLACEHOLDER_NUMBER_PER_ROW', _x("Enter number per row", "Control options style placeholder (Enter number per row)", "wp-any-form"));
+define('CONTROL_OPTIONS_STYLE_LABEL_SPACING', _x("Auto Spacing:", "Control options style label (Auto Spacing)", "wp-any-form"));
+define('CONTROL_OPTIONS_ITEMS_LIST_CMD_TITLE_EDIT', _x("Edit item", "Control options items list image command title (Edit item)", "wp-any-form"));
+define('CONTROL_OPTIONS_ITEMS_LIST_CMD_TITLE_DELETE', _x("Delete item", "Control options items list image command title (Delete item)", "wp-any-form"));
+define('CONTROL_OPTIONS_ITEMS_LIST_MSG_NO_ITEMS_FOUND', _x("No items found.", "Control options items list informational message", "wp-any-form"));
+define('CONTROL_OPTIONS_GENERAL_LABEL_VALIDATION_REQUIRED', _x("Required", "Control options general required checkbox label text", "wp-any-form"));
+define('DATA_GRIDS_CSV_DATE_TIME_COLUMN_NAME', _x("Submit date and time", "Data Grids CSV date and time column name", "wp-any-form"));
+define('WPAF_PLUGIN_CONFIGURATION_LINK', "<a href='" . admin_url("edit.php?post_type=wp_any_form&page=wp_any_form_config_mh") . "' >" . _x("Configuration", "Link to plugin configuration text", "wp-any-form") . "</a>");
+
+?>

@@ -1,0 +1,119 @@
+.div-clear {
+	clear: both;
+}
+
+.div-wp-any-form-container {
+	display: none;
+	width: 100%;
+}
+
+.div-wp-any-form-msg {
+	font-weight: bold;
+	min-height: 21px;
+}
+
+.div-wp-any-form {
+
+}
+
+.div-wp-any-form-row {
+	clear: both;
+}
+
+.div-wp-any-form-cell {
+	float: left;
+	/*margin-left: 5px;
+	margin-top: 5px;
+	border: 1px solid #cdcdcd;*/
+}
+
+.div-control-container {
+	float: left;
+	height: 15px;
+}
+
+.div-vertical-spacing-tbl {
+	display: table; 
+    overflow: hidden;
+    height: 100%; /* for vertical align */
+}
+
+.div-vertical-spacing-cell {
+	display: table-cell; 
+    /*vertical-align: middle;*/
+}
+
+.div-lbl-control {
+	float: left;
+	word-wrap: break-word;
+	line-height: normal;
+}
+
+.ddl_control {
+	float: left;
+}
+
+.div-ddl-required-span-container {
+	float: right;
+	margin-left: 3px;
+}
+
+.div-cbx-set-container-row {
+	clear: both;
+}
+
+.div-cbx-set-container-cell {
+	float: left;
+	padding-right: 10px;
+	word-wrap: break-word;
+}
+
+.div-cbx-set-container-cell:last-child {
+	padding-right: 0px;
+}
+
+.div-cbx-required-span-container {
+	float: left;
+	margin-left: 3px;
+	padding-top: 3px;
+}
+
+.div-rbtn-set-container-row {
+	clear: both;
+}
+
+.div-rbtn-set-container-cell {
+	float: left;
+	padding-right: 10px;
+	word-wrap: break-word;
+}
+
+.div-rbtn-set-container-cell:last-child {
+	padding-right: 0px;
+}
+
+.div-rbtn-required-span-container {
+	float: left;
+	margin-left: 3px;
+	padding-top: 3px;
+}
+
+.div-any-form-row {
+	clear: both;
+}
+
+.div-any-form-cell {
+	float: left;
+	padding: 5px;
+}
+
+.div-popup-form {
+  	position: relative;
+  	padding: 20px;
+  	width: auto;
+  	margin: 20px auto;
+}
+
+.div-clear-row_has_cells_wider_than_screen {
+	display: none;
+}

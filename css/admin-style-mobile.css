@@ -1,0 +1,19 @@
+.txta_form_messages {
+	width: 265px;
+}
+
+#txt_email_template_custom_field_subject {
+	width: 265px;
+}
+
+#txta_wp_any_form_email_addresses_to {
+	width: 265px;
+}
+
+#txt_custom_theme {
+	width: 250px;
+}
+
+#txt_recaptcha_site_key, #txt_recaptcha_secret_key {
+	width: 250px;
+}

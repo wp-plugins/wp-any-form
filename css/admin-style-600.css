@@ -1,0 +1,15 @@
+#txt_item_set_name, #txt_item_description, #txt_item_value {
+	width: 175px;
+}
+
+.div-any-form-cell-width-600 {
+	max-width: 205px;
+}
+
+.div-any-form-cell-li-item-arr {
+	width: 205px;
+}
+
+#ddl_date_format {
+	width: 205px;
+}

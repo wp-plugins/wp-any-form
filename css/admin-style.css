@@ -1,0 +1,503 @@
+.lblmsg {
+	color: #cc0000;
+	min-height: 21px;
+}
+
+.class-bold {
+    font-weight: bold;
+}
+
+.div-clear {
+	clear: both;
+}
+
+#wp_any_form_builder_controls {
+	z-index: 15;
+}
+
+#div-wp-any-form-builder-controls {
+
+}
+
+.div-wp-any-form-builder-form-container {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	display: none;
+	height: auto;
+}
+
+#wp_any_form_builder_form {
+	z-index: 5;
+}
+
+#div-wp-any-form-builder-form {
+	min-height: 250px;
+}
+
+.div-wp-any-form-builder-form-msg {
+	font-weight: bold;
+	min-height: 21px;	
+}
+
+#div-control-options-form-msg {
+	padding: 5px;
+}
+
+#div-ddl-item-sets-form-msg {
+	padding-left: 5px;
+}
+
+#lblmsg-admin-data-grids {
+	height: 21px;		
+}
+
+#div-wp-any-form-builder-style-msg, #div-wp-any-form-builder-custom-css-msg, #div-wp-any-form-builder-submit-msg, #div-wp-any-form-builder-messages-msg {
+	color: #000000;
+	padding: 5px;
+}
+
+.div-wp-any-form-builder-form-row {
+	clear: both;
+	height: 50px;
+}
+
+.div-wp-any-form-builder-form-cell {
+	float: left;
+	background-color: #cdcdcd;
+	min-width: 105px;
+	min-height: 50px;
+	/*border: 1px solid #cdcdcd;
+	margin-left: 5px;
+	margin-top: 5px;*/
+}
+
+.div-control-container {
+	float: left;
+	/*width: 215px;*/
+	background-color: #f1f1f1;
+	min-width: 70px;
+	padding-left: 5px;
+	padding-right: 5px;
+	/*padding-top: 2px;*/
+	height: 50px;
+}
+
+.div-vertical-spacing-tbl {
+	display: table; 
+    overflow: hidden;
+    height: 100%;
+    float: left;
+}
+
+.div-vertical-spacing-cell {
+	display: table-cell; 
+    /*vertical-align: middle;*/
+}
+
+.div-lbl-control {
+	float: left;
+	word-wrap: break-word;
+}
+
+.div-form-builder-img-cmd-container-row {
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+.div-form-builder-img-cmd-container-row.del {
+	float: right;
+	margin-top: 10px;
+	margin-right: 4px;
+}
+
+.div-form-builder-img-cmd-container-row.options {
+	float: right;
+	margin-top: 10px;
+	margin-right: 1px;
+}
+
+.div-form-builder-img-cmd-container-cell {
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+#ul-form-builder-controls li {
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+	list-style-type: none;
+}
+
+.a-form-builder-control {
+	padding: 5px;
+	border: 1px solid #cdcdcd;
+	background-color: #F1F1F1;
+	
+}
+
+a.a-form-builder-control:link, a.a-form-builder-control:visited, a.a-form-builder-control:active { 
+	text-decoration: none;
+    
+}
+
+a.a-form-builder-control:hover {
+    text-decoration: none;
+}
+
+.div-control-options-container {
+
+}
+
+.div-any-form-row {
+	clear: both;
+}
+
+.div-any-form-cell {
+	float: left;
+	padding: 5px;
+}
+
+.div-any-form-cell.lbl {
+	padding-top: 10px;
+}
+
+.div-any-form-cell.lbl.w105 {
+	width: 105px;
+}
+
+.div-any-form-cell.lbl.w135 {
+	width: 135px;
+}
+
+.div-any-form-cell.lbl.w165 {
+	width: 165px;
+}
+
+.div-any-form-cell.lbl.w185 {
+	width: 185px;
+}
+
+.span-required-field {
+    color: #cc0000;
+}
+
+.h15 {
+	height: 15px;
+}
+
+.txt_form_default_font_colour, .txt_form_default_message_font_colour, .txt_form_default_required_field_font_colour, .txt_font_colour {
+	width: 85px;
+}
+
+.txt_form_default_form_width {
+	width: 50px;
+} 
+
+.txt_default_font_size, .txt_form_default_cells_per_row, .txt_form_default_cell_spacing, .txt_form_default_row_spacing, .txt_form_default_cell_padding {
+	width: 35px;
+} 
+
+#txt_email_template_custom_field_subject {
+	width: 450px;
+}
+
+#txt_width, #txt_height, #txt_border_width {
+	width: 105px;
+}
+
+.fs13 {
+	font-size: 13px;
+}
+
+.a-form-builder-img-cmd img {
+	border: 0px;
+}
+
+.div-delete-cell-options {
+	
+}
+
+.div-control-options-container input[type=checkbox] {
+}
+
+#iframe-form-builder-preview {
+	width: 100%;
+	height: auto;
+}
+
+.div-any-form-cell-info {
+	padding-top: 10px;
+}
+
+#div-wp-any-form-builder-custom-css {
+	width: 100%;
+}
+
+#txta_wp_any_form_custom_css {
+	width: 100%;
+	height: 275px;
+}
+
+#txta_wp_any_form_email_addresses_to {
+	width: 450px;
+	height: 85px;	
+}
+
+.txta_form_messages {
+	width: 450px;
+	height: 85px;		
+}
+
+.span-red-color {
+	color: #cc0000;
+}
+
+.div-wpaf-table {
+
+}
+
+.div-wpaf-table-row {
+	clear: both;
+}
+
+.div-wpaf-table-cell {
+	float: left;
+}
+
+#div-wpaf-table-admin-data-grid-options .div-wpaf-table-cell {
+	padding-right: 15px;
+}
+
+#div-wpaf-table-admin-data-grid-options .div-wpaf-table-cell:first-child {
+	margin-left: 0px;
+}
+
+#div-wpaf-table-form-data .div-wpaf-table-cell {
+	padding: 5px;
+}
+
+/* Add this code in style.css */
+.dropcap {
+    float: left;
+    font-size: 80px;
+    padding-right: 7px;
+    line-height: 72px;
+}
+
+#div-any-form-row_send_email_options .div-wpaf-table-cell {
+	padding-right: 15px;
+}
+
+#div-any-form-row_send_email_options .div-wpaf-table-cell:first-child {
+	margin-left: 0px;
+}
+
+.div-table-data-filter {
+	float: right;
+}
+
+#txt_item_description {
+	width: 250px;
+}
+
+#txt_item_value {
+	width: 225px;
+}
+
+#div-ddl-item-set-name-form {
+	display: none;
+}
+
+.div-msg-overlay {
+	position:absolute; 
+	background:#ffffff; 
+	display:none; 
+	color:#000000; 
+	z-index:1000; 
+	font-size: 12px;
+	width: 250px;
+	padding: 15px;
+	border: 1px solid #cdcdcd;
+}
+
+.div-msg-overlay-close-btn {
+	float: right;
+	z-index: 1000;
+}
+
+.div-msg-overlay-left-btn {
+	float: left;
+	margin-right: 25px;
+	z-index: 1000;
+}
+
+#acmd-admin-item-set_delete {
+	display: none;
+}
+
+.div-any-form-cell-li-item-arr {
+	width: 375px;
+	word-wrap: break-word;
+}
+
+#ul-admin-items-arr li {
+	border: 1px solid #cdcdcd;
+}
+
+#btn_cancel_edit_item_form {
+	display: none;
+}
+
+.ddl_control {
+	float: left;
+}
+
+.div-ddl-required-span-container {
+	float: right;
+	margin-left: 3px;
+}
+
+#txta_value {
+	width: 215px;
+	height: 85px;	
+}
+
+#div-any-form-row_must_be_checked_error_msg {
+	display: none;
+}
+
+#txt_must_be_checked_error_msg {
+	width: 405px;
+}
+
+.div-cbx-set-container-row {
+	clear: both;
+}
+
+.div-cbx-set-container-cell {
+	float: left;
+	padding-right: 10px;
+	word-wrap: break-word;
+}
+
+.div-cbx-set-container-cell:last-child {
+	padding-right: 0px;
+}
+
+.div-cbx-required-span-container {
+	float: left;
+	margin-left: 3px;
+	padding-top: 3px;
+}
+
+.div-rbtn-set-container-row {
+	clear: both;
+}
+
+.div-rbtn-set-container-cell {
+	float: left;
+	padding-right: 10px;
+	word-wrap: break-word;
+}
+
+.div-rbtn-set-container-cell:last-child {
+	padding-right: 0px;
+}
+
+.div-rbtn-required-span-container {
+	float: left;
+	margin-left: 3px;
+	padding-top: 3px;
+}
+
+.a-img-saved-form-data {
+	border: 0px;
+}
+
+.a-img-saved-form-data img {
+	max-width: 250px;
+}
+
+#div-any-form-cell_min_date_actual_date, #div-any-form-cell_min_date_numeric_offset, #div-any-form-cell_max_date_actual_date, #div-any-form-cell_max_date_numeric_offset, #div-any-form-row_date_range_ddl_second_datepicker, #div-any-form-row_initial_second_value, #div-any-form-row_custom_theme, #div-pop-up-form-options {
+	display: none;
+}
+
+#txt_custom_theme {
+	width: 275px;
+}
+
+#txt_recaptcha_site_key, #txt_recaptcha_secret_key {
+	width: 385px;
+}
+
+#txt_pop_up_form_link_text {
+	width: 250px;
+}
+
+#div-wp-any-form-saved-data {
+	overflow-x: auto;
+} 
+
+#div-admin-data-grid-container {
+	width: 95%;
+}
+
+#div-any-form-row_txt-confirm-select-control {
+	display: none;
+}
+
+.mce-ddl_wpaf_form_shortcode button {
+	width: 90px !important;
+}
+
+
+/* Go Pro Start */
+
+#div-admin-go-pro {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+}
+
+h1.go-pro-features-h1 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	padding-top: 10px;
+}
+
+h3.go-pro-h3 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+}
+
+ul.ul-go-pro-main-features {
+	margin-left: 20px;
+	margin-top: 25px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+}
+
+ul.ul-go-pro-main-features li {
+	list-style-type: disc;
+	font-size: 17px;
+	line-height: 22px;
+}
+
+p.p-go-pro-larger {
+	font-size: 17px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+}
+
+ul.ul-go-pro {
+	margin-left: 20px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+}
+
+ul.ul-go-pro li {
+	list-style-type: disc;
+	line-height: 19px;	
+}
+
+p.p-go-pro {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	font-size: 15px;
+}
+
+/* Go Pro End */
