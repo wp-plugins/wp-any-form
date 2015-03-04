@@ -3,13 +3,7 @@
 function biz_logic_wp_custom_get_ui_theme_dirs_ddl($selected_ui_theme) {
 	$ddl_ui_theme_dirs_options_arr = array(
 		"smoothness" => "Smoothness",
-		"redmond" => "Redmond",
 		"start" => "Start",
-		"ui-lightness" => "UI Lightness",
-		"ui-darkness" => "UI Darkness",
-		"mint-choc" => "Mint Choc",
-		"overcast" => "Overcast",
-		"pepper-grinder" => "Pepper Grinder",
 		"custom" => _x("Specify custom theme", "UI Theme drop down list option", "wp-any-form")
 	);
     return biz_logic_wp_custom_get_ddl_html("", "ddl_ui_theme_dirs", "", "", $ddl_ui_theme_dirs_options_arr, $selected_ui_theme); 
