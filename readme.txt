@@ -1,12 +1,12 @@
 === WP Any Form ===
 Contributors: biz-logic
 Author URI: http://biz-logic.co.za
-Plugin URI: http://biz-logic.co.za/wp-any-form/
-Donate link: http://biz-logic.co.za/wp-any-form/
+Plugin URI: http://biz-logic.co.za/downloads/wp-any-form/
+Donate link: http://biz-logic.co.za/downloads/wp-any-form/
 Tags: wordpress ajax contact form drag drop responsive
 Requires at least: 3.2
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 Responsive Ajax Forms with Drag and Drop form builder, saved form submissions, auto email templates and more.
@@ -46,13 +46,13 @@ Features
 
 From a simple contact form to more complex forms WP Any Form provides the performance without the hassle!
 
-Demo Website
+Online Examples
 --------------------
-[WP Any Form Demo Website](http://biz-logic.co.za/wp-any-form/)
+[WP Any Form Examples](http://biz-logic.co.za/wp-any-form-examples/)
 
 Online Documentation
 --------------------
-[WP Any Form Online Documentation](http://biz-logic.co.za/wp-any-form/documentation/)
+[WP Any Form Online Documentation](http://biz-logic.co.za/wp-any-form-documentation/)
 
 Go Pro
 --------------------
@@ -100,6 +100,9 @@ After activation there will be a new Menu item "Any Forms" that contains all men
 
 = 1.0 =
 * Initial release.
+= 1.0.1 =
+* Updated links to online examples.
+* Removed additional jQuery UI Themes to decrease plugin download size. 
 
 == Upgrade Notice ==
 
