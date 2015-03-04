@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: WP Any Form
-Plugin URI: http://biz-logic.co.za/wp-any-form/
+Plugin URI: http://biz-logic.co.za/downloads/wp-any-form/
 Description: Responsive Ajax Forms with Drag and Drop form builder, saved form submissions, auto email templates and more.
-Version: 1.0
+Version: 1.0.1
 Author: biz-logic
 Author URI: http://biz-logic.co.za
 Text Domain: wp-any-form
